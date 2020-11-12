@@ -1,0 +1,27 @@
+.landing {
+  margin-top: 0;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.input {
+  border-style: hidden;
+  border-bottom: 1px solid black;
+  margin-bottom: 2%;
+}
+
+.about {
+  color: #000008;
+}
+
+.registerForm {
+  background: white;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.footer {
+  background-color: #afafaf;
+}
